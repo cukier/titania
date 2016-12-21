@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MF-MSMF050-2)(type Legacy)(uri "$(KIPRJMOD)\\lib\\MF-MSMF050-2.mod")(options "")(descr ""))
+)
